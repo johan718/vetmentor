@@ -1,3 +1,3 @@
 vetmentor
 =========
-[Vetmentor](http://vetmentor.herokuapp.com)
+[vetmentor.herokuapp.com](http://vetmentor.herokuapp.com)
