@@ -1,4 +1,4 @@
-vetmentor
+VetMentor
 =========
 [vetmentor.herokuapp.com](http://vetmentor.herokuapp.com) <br/>
 Work in progress. <br/>
